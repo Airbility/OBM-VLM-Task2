@@ -1,0 +1,1269 @@
+{
+  "n_trials": 7776,
+  "parse_fail": 9,
+  "by_probe_type": {
+    "target": {
+      "n": 2916,
+      "rate": 1.0
+    },
+    "critical_recombination": {
+      "n": 2909,
+      "rate": 0.003093846682708845
+    },
+    "near_lure": {
+      "n": 970,
+      "rate": 0.0
+    },
+    "unrelated_lure": {
+      "n": 972,
+      "rate": 0.0
+    }
+  },
+  "by_condition": {
+    "rep1_ov0_nl0": {
+      "repetition": 1,
+      "overlap": 0,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov0_nl1024": {
+      "repetition": 1,
+      "overlap": 0,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov0_nl2048": {
+      "repetition": 1,
+      "overlap": 0,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov0_nl4096": {
+      "repetition": 1,
+      "overlap": 0,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov0_nl8192": {
+      "repetition": 1,
+      "overlap": 0,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov0_nl16384": {
+      "repetition": 1,
+      "overlap": 0,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov1_nl0": {
+      "repetition": 1,
+      "overlap": 1,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov1_nl1024": {
+      "repetition": 1,
+      "overlap": 1,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov1_nl2048": {
+      "repetition": 1,
+      "overlap": 1,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov1_nl4096": {
+      "repetition": 1,
+      "overlap": 1,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov1_nl8192": {
+      "repetition": 1,
+      "overlap": 1,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov1_nl16384": {
+      "repetition": 1,
+      "overlap": 1,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 53,
+          "rate": 0.018867924528301883
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov2_nl0": {
+      "repetition": 1,
+      "overlap": 2,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov2_nl1024": {
+      "repetition": 1,
+      "overlap": 2,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov2_nl2048": {
+      "repetition": 1,
+      "overlap": 2,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov2_nl4096": {
+      "repetition": 1,
+      "overlap": 2,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov2_nl8192": {
+      "repetition": 1,
+      "overlap": 2,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep1_ov2_nl16384": {
+      "repetition": 1,
+      "overlap": 2,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov0_nl0": {
+      "repetition": 2,
+      "overlap": 0,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 52,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov0_nl1024": {
+      "repetition": 2,
+      "overlap": 0,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov0_nl2048": {
+      "repetition": 2,
+      "overlap": 0,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov0_nl4096": {
+      "repetition": 2,
+      "overlap": 0,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov0_nl8192": {
+      "repetition": 2,
+      "overlap": 0,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov0_nl16384": {
+      "repetition": 2,
+      "overlap": 0,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov1_nl0": {
+      "repetition": 2,
+      "overlap": 1,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 17,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov1_nl1024": {
+      "repetition": 2,
+      "overlap": 1,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 53,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov1_nl2048": {
+      "repetition": 2,
+      "overlap": 1,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov1_nl4096": {
+      "repetition": 2,
+      "overlap": 1,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 17,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov1_nl8192": {
+      "repetition": 2,
+      "overlap": 1,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov1_nl16384": {
+      "repetition": 2,
+      "overlap": 1,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov2_nl0": {
+      "repetition": 2,
+      "overlap": 2,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 53,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov2_nl1024": {
+      "repetition": 2,
+      "overlap": 2,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 53,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov2_nl2048": {
+      "repetition": 2,
+      "overlap": 2,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov2_nl4096": {
+      "repetition": 2,
+      "overlap": 2,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov2_nl8192": {
+      "repetition": 2,
+      "overlap": 2,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep2_ov2_nl16384": {
+      "repetition": 2,
+      "overlap": 2,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov0_nl0": {
+      "repetition": 3,
+      "overlap": 0,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov0_nl1024": {
+      "repetition": 3,
+      "overlap": 0,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov0_nl2048": {
+      "repetition": 3,
+      "overlap": 0,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov0_nl4096": {
+      "repetition": 3,
+      "overlap": 0,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov0_nl8192": {
+      "repetition": 3,
+      "overlap": 0,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov0_nl16384": {
+      "repetition": 3,
+      "overlap": 0,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov1_nl0": {
+      "repetition": 3,
+      "overlap": 1,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 53,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov1_nl1024": {
+      "repetition": 3,
+      "overlap": 1,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.01851851851851849
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov1_nl2048": {
+      "repetition": 3,
+      "overlap": 1,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov1_nl4096": {
+      "repetition": 3,
+      "overlap": 1,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov1_nl8192": {
+      "repetition": 3,
+      "overlap": 1,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov1_nl16384": {
+      "repetition": 3,
+      "overlap": 1,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov2_nl0": {
+      "repetition": 3,
+      "overlap": 2,
+      "context_newlines": 0,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov2_nl1024": {
+      "repetition": 3,
+      "overlap": 2,
+      "context_newlines": 1024,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov2_nl2048": {
+      "repetition": 3,
+      "overlap": 2,
+      "context_newlines": 2048,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov2_nl4096": {
+      "repetition": 3,
+      "overlap": 2,
+      "context_newlines": 4096,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov2_nl8192": {
+      "repetition": 3,
+      "overlap": 2,
+      "context_newlines": 8192,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    },
+    "rep3_ov2_nl16384": {
+      "repetition": 3,
+      "overlap": 2,
+      "context_newlines": 16384,
+      "probe_types": {
+        "target": {
+          "n": 54,
+          "rate": 1.0
+        },
+        "critical_recombination": {
+          "n": 54,
+          "rate": 0.0
+        },
+        "near_lure": {
+          "n": 18,
+          "rate": 0.0
+        },
+        "unrelated_lure": {
+          "n": 18,
+          "rate": 0.0
+        }
+      }
+    }
+  },
+  "model": "deepseek-flash",
+  "thinking": "disabled",
+  "split": "test"
+}
